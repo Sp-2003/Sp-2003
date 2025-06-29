@@ -1,23 +1,23 @@
-# 👋 Hi there, I'm Subham Pal!
+# 👋 Hello World!! I'm Subham Pal!
 
 🎓 **Computer Science Undergraduate | Techno Main Salt Lake (MAKAUT University)**  
-🧑‍💻 **2nd Year | 4th Semester | Passionate Learner & Future Software Engineer**
+🧑‍💻 **3rd Year | Passionate Learner & Future Software Engineer**
 
 ---
 
 ## 🛠️ Technical Skills & Interests:
-- **Programming Languages:** Java, C, PHP, JavaScript, SQL  
-- **Frontend:** HTML5, CSS3, JavaScript  
-- **Backend:** PHP, Java (Spring basics - exploring), MySQL  
-- **Development Tools:** VS Code, IntelliJ IDEA, XAMPP, Git & GitHub  
-- **Frameworks/Libraries:** JavaFX (for GUI), Bootstrap (basics)  
-- **Concepts:** Data Structures & Algorithms (DSA), Object Oriented Programming (OOP), Software Engineering Principles  
+- **Programming Languages:** Java, C, C++, Python, PHP, JavaScript, SQL  
+- **Frontend:** HTML, CSS, JavaScript  
+- **Backend:** PHP, Java, NodeJs, MySQL  
+- **Development Tools:** VS Code, IntelliJ IDEA, XAMPP, Git & GitHub, Adobe  
+- **Frameworks/Libraries:** JavaFX (for GUI), Bootstrap (basics)
+- **Database:** MongoDB, SQL
 
 ---
 
 ## 🚀 Currently Working On:
+- ✅ Personal Web Development & Software Development Projects
 - ✅ College Projects  
-- ✅ Personal Web Development Projects  
 - ✅ Java-based Software Applications  
 - ✅ Improving DSA problem-solving skills (Java + LeetCode)  
 - ✅ Learning Backend Development (PHP + MySQL)
